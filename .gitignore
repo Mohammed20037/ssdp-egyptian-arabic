@@ -1,0 +1,28 @@
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Generated data — keep manifests, ignore heavy artifacts
+data/audio/*.wav
+data/audio/*.mp3
+data/final/*.arrow
+data/final/cache-*
+
+# Whisper model cache (large)
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

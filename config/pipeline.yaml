@@ -1,0 +1,99 @@
+# Synthetic Speech Data Pipeline (S.S.D.P.) - Configuration
+# All knobs live here. Code reads from this file via src.config.
+paths:
+  prompts_manifest: data/prompts/prompts.jsonl
+  audio_dir:        data/audio
+  audio_manifest:   data/audio/audio.jsonl
+  reviewed_manifest: data/reviewed/reviewed.jsonl
+  quality_manifest: data/reviewed/quality.jsonl
+  final_dir:        data/final
+
+# Stage 1: Prompt Generation
+prompts:
+  model: gpt-4o-mini          # Cheap, fluent enough for Egyptian Arabic
+  temperature: 0.9            # High for diversity
+  total_target: 80            # We over-generate ~33% to absorb review rejections and still land at ~60 final samples.
+  prompts_per_request: 15     # Batch size per LLM call
+  # Retries are handled via tenacity in src/prompts.py (3 attempts,
+  # exponential backoff). Hardcoded because they're network-conservative
+  # defaults; not exposed here to avoid the temptation to disable.
+
+  # Categories with target proportions (must sum to 1.0)
+  # Designed to reflect real-world Egyptian speech distribution.
+  categories:
+    daily_conversation: 0.25  # عامية يومية
+    customer_service:   0.15  # خدمة عملاء، مكالمات
+    questions:          0.15  # أسئلة، استفسارات
+    code_switching:     0.15  # عربي + إنجليزي (مهم جداً للهجة المصرية)
+    numbers_dates:      0.10  # أرقام، تواريخ، أسعار
+    commands_requests:  0.10  # أوامر، طلبات
+    emotional:          0.05  # غضب، فرح، حزن (نبرة مختلفة)
+    formal_news:        0.05  # نبرة رسمية / أخبار
+
+  # Length constraints (in words). Keep clips short for STT training.
+  min_words: 3
+  max_words: 25
+
+# Stage 2: TTS Synthesis
+tts:
+  # Sample rate for output WAV files.
+  # 16kHz is the standard for STT (Whisper, wav2vec2, etc.) - no benefit going higher.
+  output_sample_rate: 16000
+
+  # Concurrent edge-tts requests. Edge is generous; 8 is safe.
+  concurrency: 8
+
+  # Per-request timeout (seconds).
+  timeout: 30
+
+  # Retries are handled via tenacity in src/tts.py (3 attempts,
+  # exponential backoff: 2s -> 4s -> 8s, capped at 10s).
+
+  # Voices - sampled round-robin so each prompt gets a different voice.
+  # Edge-TTS provides the only truly Egyptian voices in the free tier.
+  voices:
+    - provider: edge
+      voice_id: ar-EG-SalmaNeural
+      gender: female
+      dialect: egyptian
+    - provider: edge
+      voice_id: ar-EG-ShakirNeural
+      gender: male
+      dialect: egyptian
+    # gTTS as a contrast voice (generic Arabic, MSA-leaning).
+    # Useful so the model learns to handle MSA->Egyptian transitions
+    # rather than overfitting to a single TTS engine's quirks.
+    - provider: gtts
+      voice_id: ar
+      gender: unknown
+      dialect: msa_leaning
+
+# Quality Signals
+quality:
+  # Round-trip ASR: synthesize -> transcribe with Whisper -> compare to source.
+  # High WER = TTS likely mispronounced or skipped words.
+  whisper_model: small        # tiny=39M, base=74M, small=244M, medium=769M
+  whisper_compute: int8       # CPU-friendly; switch to "float16" if using GPU
+  whisper_language: ar
+  whisper_device: cpu         # set to "cuda" if you confirmed GPU works
+
+  # Thresholds for auto-flagging (sample is FLAGGED, not auto-rejected - human still reviews)
+  # We gate on CER, not WER - Arabic morphology makes WER unstable
+  # while CER stays informative. WER is still computed and stored.
+  max_cer: 0.40               # >40% character error rate is suspicious
+  min_duration_sec: 0.5       # too short = likely failed synthesis
+  max_duration_sec: 20.0      # too long = wandering / synthesis bug
+  min_chars_per_second: 4     # too slow = silence padding
+  max_chars_per_second: 25    # too fast = mumbling / sped-up
+
+# Stage 3: Review UI
+review:
+  port: 7860
+  share: false                # Set true for a public Gradio link
+
+# Stage 4: Export
+export:
+  format: huggingface         # "huggingface" (Arrow + manifest) or "jsonl_only"
+  include_rejected: false
+  include_flagged: false      # Conservative default - exclude any flagged sample
+  dataset_name: egyptian_arabic_synthetic_v1

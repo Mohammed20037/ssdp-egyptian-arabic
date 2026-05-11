@@ -1,0 +1,33 @@
+# ── Stage 1: Prompt Generation ────────────────────────────────
+openai>=1.40.0
+python-dotenv>=1.0.0
+
+# ── Stage 2: TTS Synthesis ────────────────────────────────────
+edge-tts>=6.1.10          # Free Microsoft TTS, has ar-EG-SalmaNeural & ar-EG-ShakirNeural
+gTTS>=2.5.0               # Free Google TTS for contrast/diversity (MSA-leaning Arabic)
+
+# ── Audio processing ──────────────────────────────────────────
+soundfile>=0.12.1
+librosa>=0.10.1
+numpy>=1.24.0
+pydub>=0.25.1             # MP3 → WAV conversion (requires ffmpeg)
+
+# ── Quality signals (round-trip ASR) ──────────────────────────
+faster-whisper>=1.0.0     # CTranslate2 build of Whisper, ~4× faster than openai-whisper
+jiwer>=3.0.3              # WER/CER computation
+
+# ── Stage 3: Review UI ────────────────────────────────────────
+gradio>=4.40.0
+
+# ── Stage 4: Export ───────────────────────────────────────────
+datasets>=2.20.0
+pyarrow>=15.0.0
+
+# ── Pipeline / Config / Logging ───────────────────────────────
+pyyaml>=6.0
+tqdm>=4.66.0
+tenacity>=8.2.0           # Retries with exponential backoff
+
+# ── Tests ─────────────────────────────────────────────────────
+pytest>=8.0.0
+pytest-asyncio>=0.23.0

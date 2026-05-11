@@ -1,0 +1,80 @@
+{"id": "2c29d7abf66e_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "83ec1fc20dca_edge-ar-EG-ShakirNeural", "decision": "edit", "final_text": "السينما عندها عرض خاص في الساعة ٤", "note": null}
+{"id": "d698cd22c66c_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "98c7e7a788cc_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "a2e73af05a79_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "إيه رأيك نروح الساحل الأسبوع الجاي؟", "note": null}
+{"id": "2b03eb282349_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "2414888b4b7f_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "إمتى هتجيب هدية العيد؟", "note": null}
+{"id": "0aae753c4102_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "0fa47757984e_edge-ar-EG-ShakirNeural", "decision": "edit", "final_text": "ليه انت مش راضي تاكل؟", "note": null}
+{"id": "750a8a2c7068_edge-ar-EG-ShakirNeural", "decision": "edit", "final_text": "طب قولي ليه زعلان كده؟", "note": null}
+{"id": "bf9ae4b98329_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "babdb33eff69_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "المباراة دلوقتي على التلفزيون، شفتها؟", "note": null}
+{"id": "e50a83b37580_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "6130b11f3f4c_edge-ar-EG-ShakirNeural", "decision": "accept", "final_text": "فيه فيلم جديد نزل، عايز أشوفه.", "note": null}
+{"id": "53bbf6b5462d_gtts-ar", "decision": "accept", "final_text": "أنا حجزت، عايز أتأكد من الموعد.", "note": null}
+{"id": "c154284367cd_gtts-ar", "decision": "edit", "final_text": "أنت عاوز شاي ولا قهوة؟", "note": null}
+{"id": "693462d47b91_gtts-ar", "decision": "accept", "final_text": "لو سمحت، ممكن أعرف إزاي أتابع الطلب بتاعي؟", "note": null}
+{"id": "51bd0fd66a25_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "أنا مش عايز أخرج النهارده، خالص.", "note": null}
+{"id": "8e0b01ab1a12_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "الفاتورة إلي وصلت لي عليها مبلغ زيادة، ممكن تبصوا لي؟", "note": null}
+{"id": "88c2dda5ec64_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "db9eb0cf6acc_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "8bc27d37a04c_gtts-ar", "decision": "edit", "final_text": "ممكن تأكدولي إن الحجز تم بنجاح؟", "note": null}
+{"id": "b50455bd1fe2_edge-ar-EG-ShakirNeural", "decision": "accept", "final_text": "ممكن أستفسر عن حالة الطلب بتاعي؟", "note": null}
+{"id": "b310ceebaf0f_edge-ar-EG-ShakirNeural", "decision": "edit", "final_text": "أنا عايز ألغي الطلب، ممكن تساعدوني؟", "note": null}
+{"id": "94727d245440_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "أنا محتاج أعرف تفاصيل إضافية عن الفاتورة، ممكن؟", "note": null}
+{"id": "4996c6cb6188_edge-ar-EG-ShakirNeural", "decision": "accept", "final_text": "فيه مطعم جديد فتح قريب، لازم نجربه.", "note": null}
+{"id": "8f4df0e10328_gtts-ar", "decision": "edit", "final_text": "عندي مشكلة في الدفع، محتاج مساعدة من فضلكم.", "note": null}
+{"id": "eb68dad6c4d1_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "2cd555e0b06a_gtts-ar", "decision": "edit", "final_text": "ليه ما رحتش الجامعة؟", "note": null}
+{"id": "38cacacf6ae0_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "فين الطلب رقم 1234، عايز أعرف وصل فين؟", "note": null}
+{"id": "f8c50a507309_edge-ar-EG-ShakirNeural", "decision": "accept", "final_text": "طلبت منتج من يومين ولسه مفيش أي أخبار عنه.", "note": null}
+{"id": "c9b63f871231_edge-ar-EG-ShakirNeural", "decision": "accept", "final_text": "ممكن أعرف متى يوصلي الطرد؟", "note": null}
+{"id": "9f311b3b3a3e_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "54f2f6905123_gtts-ar", "decision": "edit", "final_text": "إمتى هترجع من السفر؟", "note": null}
+{"id": "138fa32da318_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "مين جابلك الهدية الحلوة دي؟", "note": null}
+{"id": "a56408c9f8ae_gtts-ar", "decision": "edit", "final_text": "إزاي تحب تقضي العطلة؟", "note": null}
+{"id": "b14d6eada34b_edge-ar-EG-ShakirNeural", "decision": "edit", "final_text": "إزاي أروح لميدان التحرير من هنا؟", "note": null}
+{"id": "b8941b574227_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "9dff9b194343_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "فين أماكن الترفيه في المدينة؟", "note": null}
+{"id": "54eb3be9b398_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "05f0a8e31b91_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "ليه بتفضل الأكل المصري على الأكل الإيطالي؟", "note": null}
+{"id": "4bab3efc10a8_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "6103df621391_edge-ar-EG-ShakirNeural", "decision": "edit", "final_text": "كام يوم باقي على الامتحانات؟", "note": null}
+{"id": "5c4c9f0e89d1_edge-ar-EG-SalmaNeural", "decision": "accept", "final_text": "كان عندي الـ interview النهارده ونجحت فيه!", "note": null}
+{"id": "6a71cf65ff2a_gtts-ar", "decision": "accept", "final_text": "عايزة أشتري حاجة جديدة من الـ online store.", "note": null}
+{"id": "861d62705b4e_edge-ar-EG-ShakirNeural", "decision": "accept", "final_text": "تقدر تشوف الـ video الجديد على يوتيوب؟", "note": null}
+{"id": "979a508203c1_gtts-ar", "decision": "accept", "final_text": "محتاج أكتب الـ report قبل نهاية اليوم.", "note": null}
+{"id": "b78db5909973_edge-ar-EG-SalmaNeural", "decision": "accept", "final_text": "عندي مشكلة في الـ app ومش راضي يفتح.", "note": null}
+{"id": "0ca3e390e815_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "16b3a10d59c6_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "9c308fa6a2cf_gtts-ar", "decision": "edit", "final_text": "يلا بينا نروح الكوفي شوب", "note": null}
+{"id": "804a52fc1366_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "0efd2ec965d4_gtts-ar", "decision": "edit", "final_text": "ابعتلي رسالة على الواتساب", "note": null}
+{"id": "e724358e305d_edge-ar-EG-SalmaNeural", "decision": "accept", "final_text": "لو سمحت هات لي ميا باردة", "note": null}
+{"id": "8466cba856b8_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "الـ show على التلفزيون جاب لي ذكريات حلوة.", "note": null}
+{"id": "c4824622f17b_gtts-ar", "decision": "accept", "final_text": "هات لي فنجان قهوة مع سكر", "note": null}
+{"id": "f5685aa224e6_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "17535c1bc48e_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "b2be616dd4d6_gtts-ar", "decision": "accept", "final_text": "الأكل هيوصل بعد ١٥ دقيقة بس", "note": null}
+{"id": "c8be19d616b2_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "e09741767571_edge-ar-EG-SalmaNeural", "decision": "edit", "final_text": "العيادة بتفتح من ٨ الصبح لحد ١٠ بالليل", "note": null}
+{"id": "051b5c8d2b13_gtts-ar", "decision": "edit", "final_text": "المدرسة بتبدأ يوم ١ سبتمبر", "note": null}
+{"id": "80e4b947a88b_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "26234f7a0268_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "39d31dd3e6c9_edge-ar-EG-ShakirNeural", "decision": "accept", "final_text": "الـ family trip كانت ممتعة جدًا.", "note": null}
+{"id": "541b5a19da48_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "caf5d8aa1456_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "15bca08bca67_edge-ar-EG-SalmaNeural", "decision": "accept", "final_text": "العزومة كلفتنا ٤٠٠ جنيه على العشاء", "note": null}
+{"id": "cf1a24a776f0_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "f8edf8733c1f_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "f1d6fc164d25_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "1ac33aea1ef2_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "4028bc6993af_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "11155fbe3067_gtts-ar", "decision": "reject", "final_text": null, "note": null}
+{"id": "7addb6ee3143_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "66372c32a7a8_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "63aa3d90e530_edge-ar-EG-SalmaNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "0c401d5bef6d_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "f8910494e60b_edge-ar-EG-ShakirNeural", "decision": "reject", "final_text": null, "note": null}
+{"id": "a5d43cb77061_edge-ar-EG-ShakirNeural", "decision": "accept", "final_text": "وزارة الداخلية أعلنت عن خطة لتأمين الاحتفالات القادمة.", "note": null}

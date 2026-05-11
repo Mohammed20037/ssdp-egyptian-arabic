@@ -1,0 +1,95 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "audio_relpath": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "original_prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "voice_provider": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "voice_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "voice_gender": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "voice_dialect": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "duration_sec": {
+      "dtype": "float32",
+      "_type": "Value"
+    },
+    "sample_rate": {
+      "dtype": "int32",
+      "_type": "Value"
+    },
+    "asr_transcript": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "asr_cer": {
+      "dtype": "float32",
+      "_type": "Value"
+    },
+    "asr_wer": {
+      "dtype": "float32",
+      "_type": "Value"
+    },
+    "auto_flags": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "auto_status": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "review_decision": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "review_note": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "is_synthetic": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "audio": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

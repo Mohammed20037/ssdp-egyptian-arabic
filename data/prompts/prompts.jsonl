@@ -1,0 +1,80 @@
+{"id": "0aae753c4102", "hash": "0aae753c4102", "text": "إزيك يا عم، عامل إيه النهارده؟", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "bf9ae4b98329", "hash": "bf9ae4b98329", "text": "أنت هتروح فين دلوقتي؟", "category": "daily_conversation", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "d698cd22c66c", "hash": "d698cd22c66c", "text": "يلا نخرج نأكل حاجة مع بعض.", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "2414888b4b7f", "hash": "2414888b4b7f", "text": "إمتى هتجيب هدية العيد؟", "category": "daily_conversation", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "750a8a2c7068", "hash": "750a8a2c7068", "text": "طب قولي ليه زعلان كده؟", "category": "daily_conversation", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "2b03eb282349", "hash": "2b03eb282349", "text": "أيوه، أنا جاهز للرحلة بكرة.", "category": "daily_conversation", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "babdb33eff69", "hash": "babdb33eff69", "text": "المباراة دلوقتي على التلفزيون، شفتها؟", "category": "daily_conversation", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "0fa47757984e", "hash": "0fa47757984e", "text": "ليه انت مش راضي تاكل؟", "category": "daily_conversation", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "98c7e7a788cc", "hash": "98c7e7a788cc", "text": "أنا متأخر شوية، انتظرني.", "category": "daily_conversation", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "a2e73af05a79", "hash": "a2e73af05a79", "text": "إيه رأيك نروح الساحل الأسبوع الجاي؟", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "6130b11f3f4c", "hash": "6130b11f3f4c", "text": "فيه فيلم جديد نزل، عايز أشوفه.", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "e50a83b37580", "hash": "e50a83b37580", "text": "طب قولي، محدش جاب سيرة العزومة؟", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "51bd0fd66a25", "hash": "51bd0fd66a25", "text": "أنا مش عايز أخرج النهارده، خالص.", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "4996c6cb6188", "hash": "4996c6cb6188", "text": "فيه مطعم جديد فتح قريب، لازم نجربه.", "category": "daily_conversation", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "c154284367cd", "hash": "c154284367cd", "text": "أنت عاوز شاي ولا قهوة؟", "category": "daily_conversation", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "88c2dda5ec64", "hash": "88c2dda5ec64", "text": "الجو حلو أوي النهارده، يلا نتمشى.", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "b50455bd1fe2", "hash": "b50455bd1fe2", "text": "ممكن أستفسر عن حالة الطلب بتاعي؟", "category": "customer_service", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "53bbf6b5462d", "hash": "53bbf6b5462d", "text": "أنا حجزت، عايز أتأكد من الموعد.", "category": "customer_service", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "8e0b01ab1a12", "hash": "8e0b01ab1a12", "text": "الفاتورة إلي وصلت لي عليها مبلغ زيادة، ممكن تبصوا لي؟", "category": "customer_service", "word_count": 10, "source": "llm:gpt-4o-mini"}
+{"id": "b310ceebaf0f", "hash": "b310ceebaf0f", "text": "أنا عايز ألغي الطلب، ممكن تساعدوني؟", "category": "customer_service", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "693462d47b91", "hash": "693462d47b91", "text": "لو سمحت، ممكن أعرف إزاي أتابع الطلب بتاعي؟", "category": "customer_service", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "db9eb0cf6acc", "hash": "db9eb0cf6acc", "text": "في حد يقدر يرد عليا بخصوص الشكوى اللي قدمتها؟", "category": "customer_service", "word_count": 9, "source": "llm:gpt-4o-mini"}
+{"id": "f8c50a507309", "hash": "f8c50a507309", "text": "طلبت منتج من يومين ولسه مفيش أي أخبار عنه.", "category": "customer_service", "word_count": 9, "source": "llm:gpt-4o-mini"}
+{"id": "8bc27d37a04c", "hash": "8bc27d37a04c", "text": "ممكن تأكدولي إن الحجز تم بنجاح؟", "category": "customer_service", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "94727d245440", "hash": "94727d245440", "text": "أنا محتاج أعرف تفاصيل إضافية عن الفاتورة، ممكن؟", "category": "customer_service", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "c9b63f871231", "hash": "c9b63f871231", "text": "ممكن أعرف متى يوصلي الطرد؟", "category": "customer_service", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "8f4df0e10328", "hash": "8f4df0e10328", "text": "عندي مشكلة في الدفع، محتاج مساعدة من فضلكم.", "category": "customer_service", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "38cacacf6ae0", "hash": "38cacacf6ae0", "text": "فين الطلب رقم 1234، عايز أعرف وصل فين؟", "category": "customer_service", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "b14d6eada34b", "hash": "b14d6eada34b", "text": "إزاي أروح لميدان التحرير من هنا؟", "category": "questions", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "eb68dad6c4d1", "hash": "eb68dad6c4d1", "text": "فين أقرب سوبر ماركت من النادي؟", "category": "questions", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "9f311b3b3a3e", "hash": "9f311b3b3a3e", "text": "إمتى حفلة المطرب الجديد؟", "category": "questions", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "b8941b574227", "hash": "b8941b574227", "text": "كام سعر الفتة النهارده في المطعم؟", "category": "questions", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "2cd555e0b06a", "hash": "2cd555e0b06a", "text": "ليه ما رحتش الجامعة؟", "category": "questions", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "138fa32da318", "hash": "138fa32da318", "text": "مين جابلك الهدية الحلوة دي؟", "category": "questions", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "4bab3efc10a8", "hash": "4bab3efc10a8", "text": "إيه رأيك في الفيلم اللي اتعرض أمس؟", "category": "questions", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "54f2f6905123", "hash": "54f2f6905123", "text": "إمتى هترجع من السفر؟", "category": "questions", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "9dff9b194343", "hash": "9dff9b194343", "text": "فين أماكن الترفيه في المدينة؟", "category": "questions", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "6103df621391", "hash": "6103df621391", "text": "كام يوم باقي على الامتحانات؟", "category": "questions", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "a56408c9f8ae", "hash": "a56408c9f8ae", "text": "إزاي تحب تقضي العطلة؟", "category": "questions", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "05f0a8e31b91", "hash": "05f0a8e31b91", "text": "ليه بتفضل الأكل المصري على الأكل الإيطالي؟", "category": "questions", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "861d62705b4e", "hash": "861d62705b4e", "text": "تقدر تشوف الـ video الجديد على يوتيوب؟", "category": "code_switching", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "54eb3be9b398", "hash": "54eb3be9b398", "text": "الـ game اللي بتقول عليها نزلت ولا لسه؟", "category": "code_switching", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "5c4c9f0e89d1", "hash": "5c4c9f0e89d1", "text": "كان عندي الـ interview النهارده ونجحت فيه!", "category": "code_switching", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "0ca3e390e815", "hash": "0ca3e390e815", "text": "الـ coffee اللي عندك طعمه حلو أوي.", "category": "code_switching", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "2c29d7abf66e", "hash": "2c29d7abf66e", "text": "الـ party هتبدأ الساعة 8 بالليل.", "category": "code_switching", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "b78db5909973", "hash": "b78db5909973", "text": "عندي مشكلة في الـ app ومش راضي يفتح.", "category": "code_switching", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "804a52fc1366", "hash": "804a52fc1366", "text": "الـ flight بتاعنا اتأخر شوية.", "category": "code_switching", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "6a71cf65ff2a", "hash": "6a71cf65ff2a", "text": "عايزة أشتري حاجة جديدة من الـ online store.", "category": "code_switching", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "16b3a10d59c6", "hash": "16b3a10d59c6", "text": "الـ concert كان رائع وناس كتير جت.", "category": "code_switching", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "39d31dd3e6c9", "hash": "39d31dd3e6c9", "text": "الـ family trip كانت ممتعة جدًا.", "category": "code_switching", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "979a508203c1", "hash": "979a508203c1", "text": "محتاج أكتب الـ report قبل نهاية اليوم.", "category": "code_switching", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "8466cba856b8", "hash": "8466cba856b8", "text": "الـ show على التلفزيون جاب لي ذكريات حلوة.", "category": "code_switching", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "c8be19d616b2", "hash": "c8be19d616b2", "text": "افتح الشباك هواه حلو النهاردة", "category": "commands_requests", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "9c308fa6a2cf", "hash": "9c308fa6a2cf", "text": "يلا بينا نروح الكوفي شوب", "category": "commands_requests", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "e724358e305d", "hash": "e724358e305d", "text": "لو سمحت هات لي ميا باردة", "category": "commands_requests", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "17535c1bc48e", "hash": "17535c1bc48e", "text": "استنى شوية لحد ما أجهز", "category": "commands_requests", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "0efd2ec965d4", "hash": "0efd2ec965d4", "text": "ابعتلي رسالة على الواتساب", "category": "commands_requests", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "f5685aa224e6", "hash": "f5685aa224e6", "text": "ممكن تقولي على الطريق الأقرب", "category": "commands_requests", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "26234f7a0268", "hash": "26234f7a0268", "text": "سيبني أخلص شغلي وبعدين نتكلم", "category": "commands_requests", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "c4824622f17b", "hash": "c4824622f17b", "text": "هات لي فنجان قهوة مع سكر", "category": "commands_requests", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "e09741767571", "hash": "e09741767571", "text": "العيادة بتفتح من ٨ الصبح لحد ١٠ بالليل", "category": "numbers_dates", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "541b5a19da48", "hash": "541b5a19da48", "text": "المحمصة فيها خصم ٣٠٪ على القهوة النهاردة", "category": "numbers_dates", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "b2be616dd4d6", "hash": "b2be616dd4d6", "text": "الأكل هيوصل بعد ١٥ دقيقة بس", "category": "numbers_dates", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "80e4b947a88b", "hash": "80e4b947a88b", "text": "دولار النهاردة بـ١٥ جنيه", "category": "numbers_dates", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "83ec1fc20dca", "hash": "83ec1fc20dca", "text": "السينما عندها عرض خاص في الساعة ٤", "category": "numbers_dates", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "051b5c8d2b13", "hash": "051b5c8d2b13", "text": "المدرسة بتبدأ يوم ١ سبتمبر", "category": "numbers_dates", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "15bca08bca67", "hash": "15bca08bca67", "text": "العزومة كلفتنا ٤٠٠ جنيه على العشاء", "category": "numbers_dates", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "f8edf8733c1f", "hash": "f8edf8733c1f", "text": "المكتبة عندها ٥٠٠ كتاب جديد", "category": "numbers_dates", "word_count": 5, "source": "llm:gpt-4o-mini"}
+{"id": "caf5d8aa1456", "hash": "caf5d8aa1456", "text": "يا سلام، دي أجمل لحظة في حياتي!", "category": "emotional", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "4028bc6993af", "hash": "4028bc6993af", "text": "والله العظيم أنا بهتف من الفرحة!", "category": "emotional", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "0c401d5bef6d", "hash": "0c401d5bef6d", "text": "لا مؤاخذة، ليه كده؟", "category": "emotional", "word_count": 4, "source": "llm:gpt-4o-mini"}
+{"id": "cf1a24a776f0", "hash": "cf1a24a776f0", "text": "إيه ده، أنا مش مصدق اللي حصل!", "category": "emotional", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "1ac33aea1ef2", "hash": "1ac33aea1ef2", "text": "إزيك يا عم، عامل إيه النهاردة؟", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "66372c32a7a8", "hash": "66372c32a7a8", "text": "يلا نروح نتغدى مع بعض، جبت لك حاجة حلوة.", "category": "daily_conversation", "word_count": 9, "source": "llm:gpt-4o-mini"}
+{"id": "f1d6fc164d25", "hash": "f1d6fc164d25", "text": "إنت مش هتيجي معانا السينما النهاردة؟", "category": "daily_conversation", "word_count": 6, "source": "llm:gpt-4o-mini"}
+{"id": "7addb6ee3143", "hash": "7addb6ee3143", "text": "طب إنت عايز تشرب إيه قبل ما نبدأ؟", "category": "daily_conversation", "word_count": 8, "source": "llm:gpt-4o-mini"}
+{"id": "f8910494e60b", "hash": "f8910494e60b", "text": "وزير الصحة أكد على أهمية التطعيم ضد الأنفلونزا في الموسم الجاي.", "category": "formal_news", "word_count": 11, "source": "llm:gpt-4o-mini"}
+{"id": "11155fbe3067", "hash": "11155fbe3067", "text": "الأرصاد بتحذر من عواصف رعدية مفاجئة في الساعات القادمة.", "category": "formal_news", "word_count": 9, "source": "llm:gpt-4o-mini"}
+{"id": "63aa3d90e530", "hash": "63aa3d90e530", "text": "رئيس الجمهورية وجه بزيادة الدعم لمشروعات الشباب.", "category": "formal_news", "word_count": 7, "source": "llm:gpt-4o-mini"}
+{"id": "a5d43cb77061", "hash": "a5d43cb77061", "text": "وزارة الداخلية أعلنت عن خطة لتأمين الاحتفالات القادمة.", "category": "formal_news", "word_count": 8, "source": "llm:gpt-4o-mini"}
